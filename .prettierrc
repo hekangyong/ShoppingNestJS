@@ -1,0 +1,16 @@
+{
+    "singleQuote": true,
+    "trailingComma": "all",
+    "tabWidth": 4,
+    "semi": false,
+    "useTabs": false,
+    "printWidth": 100,
+    "overrides": [
+        {
+            "files": ".prettierrc",
+            "options": { "parser": "json" }
+        }
+    ],
+    "prettier.tslintIntegration": false,
+    "bracketSpacing": true
+}
