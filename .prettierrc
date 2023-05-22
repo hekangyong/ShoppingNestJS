@@ -12,5 +12,6 @@
         }
     ],
     "prettier.tslintIntegration": false,
-    "bracketSpacing": true
+    "bracketSpacing": true,
+    "endOfLine": "auto"
 }
